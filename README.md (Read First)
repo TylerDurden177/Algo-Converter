@@ -1,0 +1,7 @@
+# Algo-Converter
+its calculator like project which can convert Algo to USD and vice versa , also has simple but beautiful interface.
+also project is written in HTML,CSS,JS
+if you want to use it just download or else copy codes and paste but make sure to keep names same as "index.html" , "style.css" , "script.js" as files are linked to each other by name and functions by id for proper functioning make sure to do it like that.
+value of Algo and USD is presetted by date of today(30-jan-2023) you can customize as upto your time by going in JS code's line 52 and 56. sorry for this inconvinience as calculator is offline we can't make it auto updating tool. Thank you
+if there be anything let us know contact info : gmail -> gavinsandhu177@Gmail.com , discord -> Tyler Durden#5997
+Enjoy Fast and Free converter
