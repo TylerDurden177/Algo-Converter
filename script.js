@@ -8,7 +8,7 @@ inputBox1.style.top = '50%';
 inputBox1.style.left = '50%';
 inputBox1.style.width = '100px';
 inputBox1.style.height = '20px';
-inputBox1.style.marginLeft = '-50px';
+inputBox1.style.marginLeft = '-50apx';
 inputBox1.style.marginTop = '-10px';
 document.body.appendChild(inputBox1);
 var inputBox2 = document.createElement('input');
